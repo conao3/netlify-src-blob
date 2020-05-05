@@ -22,8 +22,15 @@ code,
 a,
 #sidebar-title-home:hover,
 #content-nav .nav-link:hover,
-#TableOfContents a:hover {
+#TableOfContents a:hover,
+btn, .btn-outline-dark {
     color: #8ac6f2;
+    border-color: #8ac6f2;
+}
+
+.badge, .badge-dark {
+    color: #2a2a29;
+    background-color: #8ac6f2;
 }
 
 #sidebar {
