@@ -10,7 +10,7 @@ body {
 
 body,
 #sidebar-footer,
-#article-listing .article-listing-readmore {
+.article-listing .article-listing-readmore {
     background: #2a2a29;
 }
 
@@ -43,7 +43,7 @@ btn, .btn-outline-dark {
 
 #TableOfContents-title,
 #content-nav .nav-link,
-#article-listing .article-listing-date,
+.article-listing .article-listing-date,
 #article-info {
     color: rgba(256, 256, 256, 0.6);
 }
