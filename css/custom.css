@@ -19,6 +19,10 @@ code,
     color: #e5786d;
 }
 
+#article-info .article-info-section {
+    color: #7ec98f;
+}
+
 a,
 #sidebar-title-home:hover,
 #content-nav .nav-link:hover,
