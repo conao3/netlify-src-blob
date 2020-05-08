@@ -48,7 +48,7 @@ btn, .btn-outline-dark {
 #TableOfContents-title,
 #content-nav .nav-link,
 .article-listing .article-listing-date,
-#article-info {
+#article-info-wrapper {
     color: rgba(256, 256, 256, 0.6);
 }
 
