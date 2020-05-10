@@ -52,6 +52,10 @@ btn, .btn-outline-dark {
     color: rgba(256, 256, 256, 0.6);
 }
 
+.article-listing .article-listing-strong {
+    background: rgba(255, 255, 255, 0.2)
+}
+
 #TableOfContents a {
     color: rgba(256, 256, 256, 0.5);
 }
