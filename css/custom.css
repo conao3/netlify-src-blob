@@ -19,6 +19,11 @@ code,
     color: #e5786d;
 }
 
+pre {
+    color: #f6f3e8;
+    background: #222221;
+}
+
 #article-info .article-info-section {
     color: #7ec98f;
 }
